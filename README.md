@@ -68,5 +68,5 @@ Usage
 To get started, simply execute beef and follow the instructions:
 
 ```
-$ ./beef
+$ ./beef-xss
 ```
